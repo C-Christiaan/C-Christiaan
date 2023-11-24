@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Chelsea Christiaan, a spirited 1st-year back-end student at Bit Academy, dancing and singing my way through life. Currently, I'm immersed in the world of HTML, CSS, PHP, MySQL, and embarking on a thrilling trial with Salesforce.
 
 ## My github statitics
 ![Chelsea's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-Christiaan&show_icons=true&theme=swift)</br>
