@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## My github statitics
+![Chelsea's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-Christiaan&show_icons=true&theme=swift)</br>
+***
+## The languages I used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-Christiaan&layout=compact)](https://github.com/C-Christiaan/github-readme-stats)
+
 <!--
 **C-Christiaan/C-Christiaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
